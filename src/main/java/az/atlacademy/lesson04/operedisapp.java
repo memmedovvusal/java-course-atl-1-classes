@@ -8,10 +8,11 @@ public class operedisapp {
         int t = a - b;
         int e = a * b;
         int d = a / b;
-        System.out.println(c);
-        System.out.println(t);
-        System.out.println(e);
-        System.out.println(d);
+        System.out.println(a == b);
+        System.out.println(a != b);
+        System.out.println(a > b);
+        System.out.println(a >= b);
+        System.out.println(a <= b);
 
 
     }
